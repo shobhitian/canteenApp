@@ -15,7 +15,7 @@ Features
 
     Cafe Status Management: Sellers have the ability to manage their cafe's status, keeping customers informed about availability and operating hours.
 
-    Email Notifications: To keep users engaged and informed, we've implemented email notification APIs that provide timely updates on order status and cafe-related news.
+    Notifications: To keep users engaged and informed, we've implemented email notification APIs that provide timely updates on order status and cafe-related news.
 
 Technologies Used
 
