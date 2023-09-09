@@ -1,6 +1,5 @@
 Canteen User and Seller App
 
-App Logo <!-- Include an image or logo of your app if available -->
 Table of Contents
 
     Overview
