@@ -1,4 +1,4 @@
-Canteen User and Seller App
+# Canteen User and Seller App
 
 Introduction
 
